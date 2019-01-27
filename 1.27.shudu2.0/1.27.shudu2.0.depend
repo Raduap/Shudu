@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548592434 source:c:\users\myleft\±à³Ì\1.27.shudu2.0\shudu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1548591467 source:c:\users\myleft\±à³Ì\1.27.shudu2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
